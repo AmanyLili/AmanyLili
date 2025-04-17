@@ -1,5 +1,5 @@
 
--👋 Hi, I’m @AmanyLili
+- 👋 Hi, I’m @AmanyLili
 - 👀 I’m interested in digital humanities, natural language processing, prompt engineering, TEI (Text Encoding Initiative), and artificial intelligence.
 - 🌱 I’m currently learning more about advanced techniques in text processing and AI applications in the humanities.
 - 💞️ I’m looking to collaborate on projects related to text analysis, digital archiving, and innovative uses of AI in research.
